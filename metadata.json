@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Living",
+  "description": "Verdant Living is a contemporary furniture and home décor retailer offering thoughtfully selected furniture, decorative accessories, and lifestyle pieces for modern homes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
